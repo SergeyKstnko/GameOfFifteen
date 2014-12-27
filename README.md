@@ -2,7 +2,7 @@ GameOfFifteen
 =============
 
 Structure of the game and instructions were provided by Dabid J.Malan.
-Functions are written by Sergii Kostenko
+Functions were written by Sergii Kostenko
 
 /**
  * fifteen.c
